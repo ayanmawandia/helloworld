@@ -1,2 +1,2 @@
 # helloworld
-It's a test "hello world" of my first code.
+It's a test code of hello world.
